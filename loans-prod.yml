@@ -2,7 +2,7 @@ build:
   version: "5.0"
 
 loans:
-  message: "Welcome to Test Bankk loans related prod APIs "
+  message: "Welcome to Test Bankk loans related Production APIs "
   contactDetails:
     name: "Rob  - Product Owner"
     email: "rob@win.com"
