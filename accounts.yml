@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Test Bank accounts related local APIs "
   contactDetails:
     name: "John Snow - Developer"
-    email: "john@winterfell.com"
+    email: "{cipher}5bbf81ad66196b1e6e4eed7e4401371e13bc4fbcc75d50bedde1c04e1f6e976da870e18c07939a9e21f09998f88b7f5c"
   onCallSupport:
     - (000) 123-1234
     - (000) 321-1345
