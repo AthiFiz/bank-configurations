@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to Test Bank card related prod APIs "
+  message: "Welcome to Micro - Bank Cards related Production APIs "
   contactDetails:
     name: "Rob  - Product Owner"
     email: "rob@win.com"
