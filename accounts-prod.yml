@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Test Bank accounts related Production APIs "
+  message: "Welcome to Micro Bank Accounts related Production APIs "
   contactDetails:
     name: "Rob  - Product Owner"
     email: "rob@win.com"
